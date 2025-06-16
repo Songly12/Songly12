@@ -18,13 +18,13 @@
 
 
 ---
-<p align="center"><a href="https://github.com/Songly12" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
+![](https://komarev.com/ghpvc/?username=Songly12&color=ff69b4&style=for-the-badge)
 
 [![](https://visitcount.itsvg.in/api?id=Songly12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![](https://komarev.com/ghpvc/?username=Songly12&color=ff69b4&style=for-the-badge)
+
 
 
 
